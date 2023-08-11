@@ -213,6 +213,7 @@ body,html{
 .quote > cite{
     background: linear-gradient(45deg, #300350 16.6%, #94167f 33.2%, #e93479 49.8%, #f9ac53 66.4%, #f62e97 83%, #153cb4 100%);
     background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
@@ -303,6 +304,7 @@ text-align: center;
     text-decoration: none;
     background: linear-gradient(45deg, #300350 16.6%, #94167f 33.2%, #e93479 49.8%, #f9ac53 66.4%, #f62e97 83%, #153cb4 100%);
     background-clip: text;
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
